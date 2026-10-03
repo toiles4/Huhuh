@@ -5439,7 +5439,7 @@ local TweenService = game:GetService("TweenService")
 local DestroyerNoclipConnection
 local DestroyerTween
 
-Tab6Automation:AddToggle("AutoDestroyEvent", {
+Tab5Automation:AddToggle("AutoDestroyEvent", {
     Text = "Auto desotry event",
     Default = false,
 
